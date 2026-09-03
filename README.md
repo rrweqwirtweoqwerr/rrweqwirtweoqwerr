@@ -35,3 +35,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,py" />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rrweqwirtweoqwerr&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+###
