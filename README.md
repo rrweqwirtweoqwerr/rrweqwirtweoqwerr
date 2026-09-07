@@ -34,7 +34,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,py" />
+    <img src="https://skillicons.dev/icons?i=godot,py,figma&theme=dark" />
 </div>
 
 ###
