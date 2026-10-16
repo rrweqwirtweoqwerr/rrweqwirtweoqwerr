@@ -20,13 +20,6 @@
 
 ###
 
-<h3 align="left"> About me</h3>
-
-###
-
-<p align="left">My journey began in middle school, when I joined the IT class. Now I’m learning programming on my own, with the help of courses, and so on.</p>
-
-###
 
 <h3 align="left">Today i coding with</h3>
 
